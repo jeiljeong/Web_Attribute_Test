@@ -1,0 +1,83 @@
+# Visual Studio Code related files
+.vscode/
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# Build results
+[Dd]ebug/
+[Dd]ebugPublic/
+[Rr]elease/
+[Rr]eleases/
+x64/
+x86/
+[Aa][Rr][Mm]/
+[Aa][Rr][Mm]64/
+bld/
+[Ll]og/
+[Ll]ogs/
+[Bb]uild/
+
+# MSTest test Results
+[Tt]est[Rr]esult*/
+[Bb]uild[Ll]og.*
+
+# NUNIT
+*.VisualState.xml
+TestResult.xml
+
+# .NET Core
+project.lock.json
+project.fragment.lock.json
+artifacts/
+**/Properties/launchSettings.json
+
+# Visual Studio profiler
+*.psess
+*.vsp
+*.vspx
+
+# Rider
+.idea/
+*.sln.iml
+
+# Resharper
+_ReSharper*/
+*.[Rr]e[Ss]harper
+*.DotSettings.user
+
+# User-specific files
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nuget.cache
+*.nupkg
+*.paket.restore.log
+*.paket.references
+paket-files/
+packages/
+src/.paket/
+.paket/paket-files/
+# Visual Studio 2017/2019 cache/options directory
+.vs/
+# Uncomment if you have tasks that create the project's static files in wwwroot
+#wwwroot/
+# Node.js Tools for Visual Studio
+.vscode/
+node_modules/
+# Common configuration files
+*.yml
+*.yaml
+*.json
+*.html
+*.md
+
+# Exclude bin and obj directories
+bin/
+obj/
